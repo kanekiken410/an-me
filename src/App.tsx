@@ -47,8 +47,9 @@ function App() {
             {/* Arabic Content */}
             <div className="text-center mb-6" dir="rtl">
               <p className="text-white text-lg leading-relaxed mb-4 font-medium">
-                أهلا وسهلا قروب انمي واتس نقاشات وفعاليات نتشرف بدخولكم قروبنا
-              </p>
+ يا هلا بعشاق الأنمي!
+قروبنا مليان نقاشات وفعاليات تسعدكم.
+انضم الآن </p>
               <p className="text-gray-300 text-base">
                 قول لهم من طرف كانيكي كن
               </p>
