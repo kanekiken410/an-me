@@ -58,7 +58,7 @@ function App() {
             {/* WhatsApp Join Button */}
             <div className="flex justify-center">
               <a 
-                href="https://chat.whatsapp.com/I7iH3YgbMfB0bG4s2GyalG?mode=ems_copy_c" 
+                href="https://chat.whatsapp.com/IPc0uWmSVO6D1HIUiOba0v?mode=ems_copy_c" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-green-500 hover:bg-green-600 text-white font-semibold px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-green-500/25 active:scale-95"
