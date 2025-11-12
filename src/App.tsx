@@ -37,7 +37,7 @@ function App() {
             {/* Character Image */}
             <div className="relative mb-6 overflow-hidden rounded-xl">
               <img 
-                src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/a-split-image-showing-kaneki-ken-from-tokyo-ghoul.jpg?q=70&fit=crop&w=1100&h=618&dpr=1" 
+                src="https://ibb.co/Jjp0MTV4" 
                 alt="كانيكي - طوكيو غول"
                 className="w-full h-auto object-cover transition-transform duration-300 hover:scale-105"
               />
